@@ -1,7 +1,7 @@
 #include "puzzle.h"
 
 // gcc main.c puzzle.c hash.c heap.c -o puzzle
-// excalidraw: https://excalidraw.com/#json=oIbV-MzO1ktlM2HhO0q3W,-QyZJI8IczFA56cDlGQ-JA
+// excalidraw: https://excalidraw.com/#json=bHXidH6alr694HCl5JaFa,MGVV0zmYAzuQFloXwP4_Ig
 
 // referências:
 // https://github.com/RafaPiveta/JogoDos15
